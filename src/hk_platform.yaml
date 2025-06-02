@@ -1,7 +1,9 @@
 payload:
   - DOMAIN,cloud.bffyun.com
-  - DOMAIN,yiandrive.com
+  - DOMAIN,yiandrive.comu
   - DOMAIN-SUFFIX,yiandrive.com
+  - DOMAIN-SUFFIX,yridc.net.cn
+  - DOMAIN-SUFFIX,shingstack.com
   - DOMAIN-SUFFIX,cloud.bffyun.com
   - DOMAIN-SUFFIX,bffyun.com
   - DOMAIN-SUFFIX,infini.money
