@@ -1,2 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,infini.money
+  - DOMAIN,ipv4.lvhai.org
+  - DOMAIN,ipv6.lvhai.org
