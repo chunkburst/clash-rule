@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN,ipv4_cu.itdog.cn
+  - DOMAIN,ipv6_cu.itdog.cn
+  - DOMAIN,ipv4.lvhai.org
+  - DOMAIN,ipv6.lvhai.org
+  - DOMAIN-SUFFIX,ip.sy
