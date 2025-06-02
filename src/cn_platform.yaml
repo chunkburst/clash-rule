@@ -4,3 +4,11 @@ payload:
   - DOMAIN,ipv4.lvhai.org
   - DOMAIN,ipv6.lvhai.org
   - DOMAIN-SUFFIX,ip.sy
+#IDC
+  - DOMAIN,cloud.bffyun.com
+  - DOMAIN,yiandrive.comu
+  - DOMAIN-SUFFIX,yiandrive.com
+  - DOMAIN-SUFFIX,yridc.net.cn
+  - DOMAIN-SUFFIX,shingstack.com
+  - DOMAIN-SUFFIX,cloud.bffyun.com
+  - DOMAIN-SUFFIX,bffyun.com
