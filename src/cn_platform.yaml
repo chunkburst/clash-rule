@@ -1,7 +1,9 @@
 payload:
+#CHECKER
   - DOMAIN,ipv4_cu.itdog.cn
   - DOMAIN,ipv6_cu.itdog.cn
-  - DOMAIN-SUFFIX,ip.sy
+  - DOMAIN,ip111.cn
+  - DOMAIN,ip.sy
 #IDC
   - DOMAIN,cloud.bffyun.com
   - DOMAIN,yiandrive.comu
