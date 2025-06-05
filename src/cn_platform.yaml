@@ -1,4 +1,6 @@
 payload:
+#MY
+  -DOMAIN-SUFFIX,ccb233.cn
 #CHECKER
   - DOMAIN,ipv4_cu.itdog.cn
   - DOMAIN,ipv6_cu.itdog.cn
