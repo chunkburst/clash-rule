@@ -3,3 +3,14 @@ payload:
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN,ipv4.lvhai.org
   - DOMAIN,ipv6.lvhai.org
+#Flow
+  - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,netflix.net
+  - DOMAIN-SUFFIX,nflxext.com
+  - DOMAIN-SUFFIX,nflximg.com
+  - DOMAIN-SUFFIX,nflximg.net
+  - DOMAIN-SUFFIX,nflxso.net
+  - DOMAIN-SUFFIX,nflxvideo.net
+  - DOMAIN-KEYWORD,netflixdnstest
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+  - DOMAIN-KEYWORD,dualstack.apiproxy-
