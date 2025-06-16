@@ -1,4 +1,7 @@
 payload:
+#IDC
+  - DOMAIN-SUFFIX,fuyunidc.com
+#Normal
   - DOMAIN-SUFFIX,infini.money
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN,ipv4.lvhai.org
