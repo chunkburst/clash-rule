@@ -17,5 +17,6 @@ payload:
   - DOMAIN-SUFFIX,lala.gg
   - DOMAIN-SUFFIX,halocloudnet.com
   - DOMAIN-SUFFIX,bgp.gd
+  - DOMAIN-SUFFIX,playfast.org
 #TALK
   - DOMAIN-SUFFIX,linux.do
