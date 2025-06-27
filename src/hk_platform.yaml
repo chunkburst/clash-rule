@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN,ipv4.lvhai.org
   - DOMAIN,ipv6.lvhai.org
+  - DOMAIN-SUFFIX,m-team.cc
 #Flow
   - DOMAIN-SUFFIX,netflix.com
   - DOMAIN-SUFFIX,netflix.net
