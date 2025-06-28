@@ -18,5 +18,6 @@ payload:
   - DOMAIN-SUFFIX,halocloudnet.com
   - DOMAIN-SUFFIX,bgp.gd
   - DOMAIN-SUFFIX,playfast.org
+  - DOMAIN-SUFFIX,coalcloud.net
 #TALK
   - DOMAIN-SUFFIX,linux.do
