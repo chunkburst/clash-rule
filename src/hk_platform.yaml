@@ -7,7 +7,7 @@ payload:
   - DOMAIN,ipv4.lvhai.org
   - DOMAIN,ipv6.lvhai.org
   - DOMAIN-SUFFIX,m-team.cc
-  - DOMAIN-SUFFIX,okxlink.com
+  - DOMAIN-SUFFIX,static.okxlink.com
 #Flow
   - DOMAIN-SUFFIX,netflix.com
   - DOMAIN-SUFFIX,netflix.net
