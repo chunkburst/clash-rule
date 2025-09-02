@@ -8,6 +8,11 @@ payload:
   - DOMAIN,ip.sy
   - DOMAIN,img.ahuh.de
   - DOMAIN-SUFFIX,ipip.net
+
+  - DOMAIN-SUFFIX,stun.l.google.com
+  - DOMAIN-SUFFIX,stun.voip.blackberry.com
+  - DOMAIN-SUFFIX,global.stun.twilio.com
+  - DOMAIN-SUFFIX,stun.cloudflare.com
 #IDC
   - DOMAIN,cloud.bffyun.com
   - DOMAIN,yiandrive.comu
