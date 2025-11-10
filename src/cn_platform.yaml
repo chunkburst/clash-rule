@@ -26,5 +26,3 @@ payload:
   - DOMAIN-SUFFIX,bgp.gd
   - DOMAIN-SUFFIX,playfast.org
   - DOMAIN-SUFFIX,coalcloud.net
-#TALK
-  - DOMAIN-SUFFIX,linux.do
