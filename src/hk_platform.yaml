@@ -19,5 +19,9 @@ payload:
   - DOMAIN-KEYWORD,netflixdnstest
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - DOMAIN-KEYWORD,dualstack.apiproxy-
+
+  - DOMAIN-SUFFIX,hanime1.com
+  - DOMAIN-SUFFIX,hanime1.me
+  - DOMAIN-SUFFIX,hanimeone.me
 #TALK
   - DOMAIN-SUFFIX,linux.do
