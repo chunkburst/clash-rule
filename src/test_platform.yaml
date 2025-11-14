@@ -4,4 +4,4 @@ payload:
   - DOMAIN-SUFFIX,ipjiance.com
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN-KEYWORD,speedtest.com
+  - DOMAIN-KEYWORD,speedtest
