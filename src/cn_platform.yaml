@@ -26,4 +26,4 @@ payload:
   - DOMAIN-SUFFIX,bgp.gd
   - DOMAIN-SUFFIX,playfast.org
   - DOMAIN-SUFFIX,coalcloud.net
-  - DOMAIN-SUFFIX,heptasky.com
+  #- DOMAIN-SUFFIX,heptasky.com
