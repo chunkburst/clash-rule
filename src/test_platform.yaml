@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,ipdata.co
   - DOMAIN-SUFFIX,ipjiance.com
   - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,iplark.com
 
 #SpeedTest
   - DOMAIN-SUFFIX,fast.com
