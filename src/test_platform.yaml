@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ipjiance.com
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,iplark.com
+  - DOMAIN-SUFFIX,aapq.net
 
 #SpeedTest
   - DOMAIN-SUFFIX,fast.com
