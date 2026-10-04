@@ -21,6 +21,8 @@ payload:
   - DOMAIN-KEYWORD,clau.de
   - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,anthropic
+  - IP-CIDR,160.79.104.0/23
+  - IP-ASN,399358
 #CloseAI
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
